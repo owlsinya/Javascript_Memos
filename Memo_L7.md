@@ -5,6 +5,8 @@ https://www.bilibili.com/video/BV1YW411T7GX?p=7
 eg:
 str = "我說：\"今天天氣真不錯！"\";
 
+<\n>
+
 \n : 換行
 \t : tab效果
 \\ : 表示 str \
