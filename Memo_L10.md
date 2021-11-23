@@ -8,7 +8,7 @@ a.toString();
 console.log(typeof a)
 --> Still Number
 ```
-數值已經被轉換了，但原變數是不會改變的
+數值已經被轉換了，但原變數 a 是不會改變的
 改變的是 "123" 而不是 a, 
 故：
 
@@ -22,3 +22,10 @@ console.log(typeof a)
 ---> String 
 ```
 
+L11
+Null & Undifined 沒有 toString 方法，若用到會報錯。
+也可以用
+```
+a = String(a);
+```
+將變數轉為String
