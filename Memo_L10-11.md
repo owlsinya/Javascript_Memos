@@ -29,3 +29,6 @@ Null & Undifined 沒有 toString 方法，若用到會報錯。
 a = String(a);
 ```
 將變數轉為String
+
+Number & Boolean 用 String(); 是ＯＫ的
+但如果遇到 null & undifined 就會變成單純 String : "null" & "undifined"
