@@ -32,3 +32,5 @@ a = parseInt(a);
 console.log(typeof a) > number
 console.log(a) > 123
 ```
+```parseFloat()```效果是一樣的。 
+```eg: a = 123.345.px > a = parseFloat(a) > 123.345```
