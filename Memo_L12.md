@@ -20,8 +20,8 @@ Number()
 
 轉換方式二：
 1. 這個函數專門用在String上
-2. parseInt()能把字串轉為整數
-3. parseFloat()能轉為浮點數
+2. ```parseInt()```能把字串轉為整數
+3. ```parseFloat()```能轉為浮點數
 4. 僅將有效的整數取出來轉換
 
 範例
