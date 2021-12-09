@@ -28,6 +28,7 @@ function App() {
 
 export default App;
 ```
+＊children 屬於 prop 下的語法  
 
 用 this 語法來繼承不同js之間的數值. 
 
