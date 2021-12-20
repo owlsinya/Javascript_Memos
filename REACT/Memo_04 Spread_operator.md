@@ -16,3 +16,5 @@ arr.push(4);
 console.log(arr); -> [1, 2, 3]
 console.log(arr2); -> [1, 2, 3, 4]
 ```
+
+![教學影片](https://www.youtube.com/watch?v=iLx4ma8ZqvQ)
