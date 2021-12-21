@@ -1,12 +1,12 @@
-# Spread Operator
+# 展開運算符(Spread Operator)
  
-也就是常見的
+
 
 ```
 [...array] 的 ... 
 ```
 其作用相當多
-就是分開陣列（array) 中的每個數值 (Value)？
+就是分開陣列（array) 中的每個數值 (Value)？ 
 例如可用在複製 array 上
 
 ```
